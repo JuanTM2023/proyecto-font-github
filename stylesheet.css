@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'BERNIER Distressed';
+    src: url('BERNIERDistressed-Regular.woff2') format('woff2'),
+        url('BERNIERDistressed-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
